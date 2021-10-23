@@ -1,0 +1,16 @@
+C:\git\CSharp.Basics\CSharp.Basics1\bin\Debug\net5.0\CSharp.Basics1.exe
+C:\git\CSharp.Basics\CSharp.Basics1\bin\Debug\net5.0\CSharp.Basics1.deps.json
+C:\git\CSharp.Basics\CSharp.Basics1\bin\Debug\net5.0\CSharp.Basics1.runtimeconfig.json
+C:\git\CSharp.Basics\CSharp.Basics1\bin\Debug\net5.0\CSharp.Basics1.runtimeconfig.dev.json
+C:\git\CSharp.Basics\CSharp.Basics1\bin\Debug\net5.0\CSharp.Basics1.dll
+C:\git\CSharp.Basics\CSharp.Basics1\bin\Debug\net5.0\ref\CSharp.Basics1.dll
+C:\git\CSharp.Basics\CSharp.Basics1\bin\Debug\net5.0\CSharp.Basics1.pdb
+C:\git\CSharp.Basics\CSharp.Basics1\obj\Debug\net5.0\CSharp.Basics1.csproj.AssemblyReference.cache
+C:\git\CSharp.Basics\CSharp.Basics1\obj\Debug\net5.0\CSharp.Basics1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CSharp.Basics\CSharp.Basics1\obj\Debug\net5.0\CSharp.Basics1.AssemblyInfoInputs.cache
+C:\git\CSharp.Basics\CSharp.Basics1\obj\Debug\net5.0\CSharp.Basics1.AssemblyInfo.cs
+C:\git\CSharp.Basics\CSharp.Basics1\obj\Debug\net5.0\CSharp.Basics1.csproj.CoreCompileInputs.cache
+C:\git\CSharp.Basics\CSharp.Basics1\obj\Debug\net5.0\CSharp.Basics1.dll
+C:\git\CSharp.Basics\CSharp.Basics1\obj\Debug\net5.0\ref\CSharp.Basics1.dll
+C:\git\CSharp.Basics\CSharp.Basics1\obj\Debug\net5.0\CSharp.Basics1.pdb
+C:\git\CSharp.Basics\CSharp.Basics1\obj\Debug\net5.0\CSharp.Basics1.genruntimeconfig.cache

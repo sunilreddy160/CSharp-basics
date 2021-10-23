@@ -1,0 +1,15 @@
+C:\git\CSharp.Basics\Csharp.comment\bin\Debug\net5.0\Csharp.comment.exe
+C:\git\CSharp.Basics\Csharp.comment\bin\Debug\net5.0\Csharp.comment.deps.json
+C:\git\CSharp.Basics\Csharp.comment\bin\Debug\net5.0\Csharp.comment.runtimeconfig.json
+C:\git\CSharp.Basics\Csharp.comment\bin\Debug\net5.0\Csharp.comment.runtimeconfig.dev.json
+C:\git\CSharp.Basics\Csharp.comment\bin\Debug\net5.0\Csharp.comment.dll
+C:\git\CSharp.Basics\Csharp.comment\bin\Debug\net5.0\ref\Csharp.comment.dll
+C:\git\CSharp.Basics\Csharp.comment\bin\Debug\net5.0\Csharp.comment.pdb
+C:\git\CSharp.Basics\Csharp.comment\obj\Debug\net5.0\Csharp.comment.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CSharp.Basics\Csharp.comment\obj\Debug\net5.0\Csharp.comment.AssemblyInfoInputs.cache
+C:\git\CSharp.Basics\Csharp.comment\obj\Debug\net5.0\Csharp.comment.AssemblyInfo.cs
+C:\git\CSharp.Basics\Csharp.comment\obj\Debug\net5.0\Csharp.comment.csproj.CoreCompileInputs.cache
+C:\git\CSharp.Basics\Csharp.comment\obj\Debug\net5.0\Csharp.comment.dll
+C:\git\CSharp.Basics\Csharp.comment\obj\Debug\net5.0\ref\Csharp.comment.dll
+C:\git\CSharp.Basics\Csharp.comment\obj\Debug\net5.0\Csharp.comment.pdb
+C:\git\CSharp.Basics\Csharp.comment\obj\Debug\net5.0\Csharp.comment.genruntimeconfig.cache

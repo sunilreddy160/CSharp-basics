@@ -1,0 +1,16 @@
+C:\git\CSharp.Basics\CSharp.Basics2\bin\Debug\net5.0\CSharp.Basics2.exe
+C:\git\CSharp.Basics\CSharp.Basics2\bin\Debug\net5.0\CSharp.Basics2.deps.json
+C:\git\CSharp.Basics\CSharp.Basics2\bin\Debug\net5.0\CSharp.Basics2.runtimeconfig.json
+C:\git\CSharp.Basics\CSharp.Basics2\bin\Debug\net5.0\CSharp.Basics2.runtimeconfig.dev.json
+C:\git\CSharp.Basics\CSharp.Basics2\bin\Debug\net5.0\CSharp.Basics2.dll
+C:\git\CSharp.Basics\CSharp.Basics2\bin\Debug\net5.0\ref\CSharp.Basics2.dll
+C:\git\CSharp.Basics\CSharp.Basics2\bin\Debug\net5.0\CSharp.Basics2.pdb
+C:\git\CSharp.Basics\CSharp.Basics2\obj\Debug\net5.0\CSharp.Basics2.csproj.AssemblyReference.cache
+C:\git\CSharp.Basics\CSharp.Basics2\obj\Debug\net5.0\CSharp.Basics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CSharp.Basics\CSharp.Basics2\obj\Debug\net5.0\CSharp.Basics2.AssemblyInfoInputs.cache
+C:\git\CSharp.Basics\CSharp.Basics2\obj\Debug\net5.0\CSharp.Basics2.AssemblyInfo.cs
+C:\git\CSharp.Basics\CSharp.Basics2\obj\Debug\net5.0\CSharp.Basics2.csproj.CoreCompileInputs.cache
+C:\git\CSharp.Basics\CSharp.Basics2\obj\Debug\net5.0\CSharp.Basics2.dll
+C:\git\CSharp.Basics\CSharp.Basics2\obj\Debug\net5.0\ref\CSharp.Basics2.dll
+C:\git\CSharp.Basics\CSharp.Basics2\obj\Debug\net5.0\CSharp.Basics2.pdb
+C:\git\CSharp.Basics\CSharp.Basics2\obj\Debug\net5.0\CSharp.Basics2.genruntimeconfig.cache

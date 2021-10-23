@@ -1,0 +1,16 @@
+C:\git\CSharp.Basics\Csharpe.type\bin\Debug\net5.0\Csharpe.type.exe
+C:\git\CSharp.Basics\Csharpe.type\bin\Debug\net5.0\Csharpe.type.deps.json
+C:\git\CSharp.Basics\Csharpe.type\bin\Debug\net5.0\Csharpe.type.runtimeconfig.json
+C:\git\CSharp.Basics\Csharpe.type\bin\Debug\net5.0\Csharpe.type.runtimeconfig.dev.json
+C:\git\CSharp.Basics\Csharpe.type\bin\Debug\net5.0\Csharpe.type.dll
+C:\git\CSharp.Basics\Csharpe.type\bin\Debug\net5.0\ref\Csharpe.type.dll
+C:\git\CSharp.Basics\Csharpe.type\bin\Debug\net5.0\Csharpe.type.pdb
+C:\git\CSharp.Basics\Csharpe.type\obj\Debug\net5.0\Csharpe.type.csproj.AssemblyReference.cache
+C:\git\CSharp.Basics\Csharpe.type\obj\Debug\net5.0\Csharpe.type.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CSharp.Basics\Csharpe.type\obj\Debug\net5.0\Csharpe.type.AssemblyInfoInputs.cache
+C:\git\CSharp.Basics\Csharpe.type\obj\Debug\net5.0\Csharpe.type.AssemblyInfo.cs
+C:\git\CSharp.Basics\Csharpe.type\obj\Debug\net5.0\Csharpe.type.csproj.CoreCompileInputs.cache
+C:\git\CSharp.Basics\Csharpe.type\obj\Debug\net5.0\Csharpe.type.dll
+C:\git\CSharp.Basics\Csharpe.type\obj\Debug\net5.0\ref\Csharpe.type.dll
+C:\git\CSharp.Basics\Csharpe.type\obj\Debug\net5.0\Csharpe.type.pdb
+C:\git\CSharp.Basics\Csharpe.type\obj\Debug\net5.0\Csharpe.type.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\git\CSharp.Basics\Csharp.ex1\bin\Debug\net5.0\Csharp.ex1.exe
+C:\git\CSharp.Basics\Csharp.ex1\bin\Debug\net5.0\Csharp.ex1.deps.json
+C:\git\CSharp.Basics\Csharp.ex1\bin\Debug\net5.0\Csharp.ex1.runtimeconfig.json
+C:\git\CSharp.Basics\Csharp.ex1\bin\Debug\net5.0\Csharp.ex1.runtimeconfig.dev.json
+C:\git\CSharp.Basics\Csharp.ex1\bin\Debug\net5.0\Csharp.ex1.dll
+C:\git\CSharp.Basics\Csharp.ex1\bin\Debug\net5.0\ref\Csharp.ex1.dll
+C:\git\CSharp.Basics\Csharp.ex1\bin\Debug\net5.0\Csharp.ex1.pdb
+C:\git\CSharp.Basics\Csharp.ex1\obj\Debug\net5.0\Csharp.ex1.csproj.AssemblyReference.cache
+C:\git\CSharp.Basics\Csharp.ex1\obj\Debug\net5.0\Csharp.ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CSharp.Basics\Csharp.ex1\obj\Debug\net5.0\Csharp.ex1.AssemblyInfoInputs.cache
+C:\git\CSharp.Basics\Csharp.ex1\obj\Debug\net5.0\Csharp.ex1.AssemblyInfo.cs
+C:\git\CSharp.Basics\Csharp.ex1\obj\Debug\net5.0\Csharp.ex1.csproj.CoreCompileInputs.cache
+C:\git\CSharp.Basics\Csharp.ex1\obj\Debug\net5.0\Csharp.ex1.dll
+C:\git\CSharp.Basics\Csharp.ex1\obj\Debug\net5.0\ref\Csharp.ex1.dll
+C:\git\CSharp.Basics\Csharp.ex1\obj\Debug\net5.0\Csharp.ex1.pdb
+C:\git\CSharp.Basics\Csharp.ex1\obj\Debug\net5.0\Csharp.ex1.genruntimeconfig.cache

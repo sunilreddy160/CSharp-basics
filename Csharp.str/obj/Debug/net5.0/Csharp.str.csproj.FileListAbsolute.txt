@@ -1,0 +1,16 @@
+C:\git\CSharp.Basics\Csharp.str\bin\Debug\net5.0\Csharp.str.exe
+C:\git\CSharp.Basics\Csharp.str\bin\Debug\net5.0\Csharp.str.deps.json
+C:\git\CSharp.Basics\Csharp.str\bin\Debug\net5.0\Csharp.str.runtimeconfig.json
+C:\git\CSharp.Basics\Csharp.str\bin\Debug\net5.0\Csharp.str.runtimeconfig.dev.json
+C:\git\CSharp.Basics\Csharp.str\bin\Debug\net5.0\Csharp.str.dll
+C:\git\CSharp.Basics\Csharp.str\bin\Debug\net5.0\ref\Csharp.str.dll
+C:\git\CSharp.Basics\Csharp.str\bin\Debug\net5.0\Csharp.str.pdb
+C:\git\CSharp.Basics\Csharp.str\obj\Debug\net5.0\Csharp.str.csproj.AssemblyReference.cache
+C:\git\CSharp.Basics\Csharp.str\obj\Debug\net5.0\Csharp.str.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CSharp.Basics\Csharp.str\obj\Debug\net5.0\Csharp.str.AssemblyInfoInputs.cache
+C:\git\CSharp.Basics\Csharp.str\obj\Debug\net5.0\Csharp.str.AssemblyInfo.cs
+C:\git\CSharp.Basics\Csharp.str\obj\Debug\net5.0\Csharp.str.csproj.CoreCompileInputs.cache
+C:\git\CSharp.Basics\Csharp.str\obj\Debug\net5.0\Csharp.str.dll
+C:\git\CSharp.Basics\Csharp.str\obj\Debug\net5.0\ref\Csharp.str.dll
+C:\git\CSharp.Basics\Csharp.str\obj\Debug\net5.0\Csharp.str.pdb
+C:\git\CSharp.Basics\Csharp.str\obj\Debug\net5.0\Csharp.str.genruntimeconfig.cache
