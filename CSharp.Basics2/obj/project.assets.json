@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\CSharp.Basics\\CSharp.Basics2\\CSharp.Basics2.csproj",
+      "projectUniqueName": "C:\\git\\repos\\CSharp-basics\\CSharp.Basics2\\CSharp.Basics2.csproj",
       "projectName": "CSharp.Basics2",
-      "projectPath": "C:\\git\\CSharp.Basics\\CSharp.Basics2\\CSharp.Basics2.csproj",
+      "projectPath": "C:\\git\\repos\\CSharp-basics\\CSharp.Basics2\\CSharp.Basics2.csproj",
       "packagesPath": "C:\\Users\\TEMP.SUNIL-DESKTOP\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\CSharp.Basics\\CSharp.Basics2\\obj\\",
+      "outputPath": "C:\\git\\repos\\CSharp-basics\\CSharp.Basics2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\CSharp.Basics\\Csharp.comment\\Csharp.comment.csproj": {}
+    "C:\\git\\repos\\CSharp-basics\\Csharp.comment\\Csharp.comment.csproj": {}
   },
   "projects": {
-    "C:\\git\\CSharp.Basics\\Csharp.comment\\Csharp.comment.csproj": {
+    "C:\\git\\repos\\CSharp-basics\\Csharp.comment\\Csharp.comment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\CSharp.Basics\\Csharp.comment\\Csharp.comment.csproj",
+        "projectUniqueName": "C:\\git\\repos\\CSharp-basics\\Csharp.comment\\Csharp.comment.csproj",
         "projectName": "Csharp.comment",
-        "projectPath": "C:\\git\\CSharp.Basics\\Csharp.comment\\Csharp.comment.csproj",
+        "projectPath": "C:\\git\\repos\\CSharp-basics\\Csharp.comment\\Csharp.comment.csproj",
         "packagesPath": "C:\\Users\\TEMP.SUNIL-DESKTOP\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\CSharp.Basics\\Csharp.comment\\obj\\",
+        "outputPath": "C:\\git\\repos\\CSharp-basics\\Csharp.comment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

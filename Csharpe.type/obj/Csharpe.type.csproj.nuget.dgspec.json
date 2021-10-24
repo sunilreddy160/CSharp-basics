@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\CSharp.Basics\\Csharpe.type\\Csharpe.type.csproj": {}
+    "C:\\git\\repos\\CSharp-basics\\Csharpe.type\\Csharpe.type.csproj": {}
   },
   "projects": {
-    "C:\\git\\CSharp.Basics\\Csharpe.type\\Csharpe.type.csproj": {
+    "C:\\git\\repos\\CSharp-basics\\Csharpe.type\\Csharpe.type.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\CSharp.Basics\\Csharpe.type\\Csharpe.type.csproj",
+        "projectUniqueName": "C:\\git\\repos\\CSharp-basics\\Csharpe.type\\Csharpe.type.csproj",
         "projectName": "Csharpe.type",
-        "projectPath": "C:\\git\\CSharp.Basics\\Csharpe.type\\Csharpe.type.csproj",
+        "projectPath": "C:\\git\\repos\\CSharp-basics\\Csharpe.type\\Csharpe.type.csproj",
         "packagesPath": "C:\\Users\\TEMP.SUNIL-DESKTOP\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\CSharp.Basics\\Csharpe.type\\obj\\",
+        "outputPath": "C:\\git\\repos\\CSharp-basics\\Csharpe.type\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

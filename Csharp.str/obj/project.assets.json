@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\CSharp.Basics\\Csharp.str\\Csharp.str.csproj",
+      "projectUniqueName": "C:\\git\\repos\\CSharp-basics\\Csharp.str\\Csharp.str.csproj",
       "projectName": "Csharp.str",
-      "projectPath": "C:\\git\\CSharp.Basics\\Csharp.str\\Csharp.str.csproj",
+      "projectPath": "C:\\git\\repos\\CSharp-basics\\Csharp.str\\Csharp.str.csproj",
       "packagesPath": "C:\\Users\\TEMP.SUNIL-DESKTOP\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\CSharp.Basics\\Csharp.str\\obj\\",
+      "outputPath": "C:\\git\\repos\\CSharp-basics\\Csharp.str\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

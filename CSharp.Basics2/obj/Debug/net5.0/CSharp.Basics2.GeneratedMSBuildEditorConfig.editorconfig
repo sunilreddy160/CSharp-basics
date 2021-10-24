@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = CSharp.Basics2
-build_property.ProjectDir = C:\git\CSharp.Basics\CSharp.Basics2\
+build_property.ProjectDir = C:\git\repos\CSharp-basics\CSharp.Basics2\

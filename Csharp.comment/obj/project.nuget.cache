@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DIyO4H27nF1IsrR/pKl3iHSIrAv5yiCGCnQqwQthf72+GJZhU/i5tSo4aH/4aaRPOj0IqJgjDeJZQZ98d/Bszw==",
+  "dgSpecHash": "g6FlqMZpUDXiyN6/G/sl4EjS9IC5VL3duPmx+lOHjCckUf62sTVETZEPdxAQr6ziqdcCgmNxyU0Q3bHoe3eE9g==",
   "success": true,
-  "projectFilePath": "C:\\git\\CSharp.Basics\\Csharp.comment\\Csharp.comment.csproj",
+  "projectFilePath": "C:\\git\\repos\\CSharp-basics\\Csharp.comment\\Csharp.comment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
