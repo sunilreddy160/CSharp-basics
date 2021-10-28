@@ -1,0 +1,16 @@
+C:\git\CSharp.Basics\CSharp operators\obj\Debug\net5.0\CSharp operators.csproj.AssemblyReference.cache
+C:\git\CSharp.Basics\CSharp operators\obj\Debug\net5.0\CSharp operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CSharp.Basics\CSharp operators\obj\Debug\net5.0\CSharp operators.AssemblyInfoInputs.cache
+C:\git\CSharp.Basics\CSharp operators\obj\Debug\net5.0\CSharp operators.AssemblyInfo.cs
+C:\git\CSharp.Basics\CSharp operators\obj\Debug\net5.0\CSharp operators.csproj.CoreCompileInputs.cache
+C:\git\CSharp.Basics\CSharp operators\bin\Debug\net5.0\CSharp operators.exe
+C:\git\CSharp.Basics\CSharp operators\bin\Debug\net5.0\CSharp operators.deps.json
+C:\git\CSharp.Basics\CSharp operators\bin\Debug\net5.0\CSharp operators.runtimeconfig.json
+C:\git\CSharp.Basics\CSharp operators\bin\Debug\net5.0\CSharp operators.runtimeconfig.dev.json
+C:\git\CSharp.Basics\CSharp operators\bin\Debug\net5.0\CSharp operators.dll
+C:\git\CSharp.Basics\CSharp operators\bin\Debug\net5.0\ref\CSharp operators.dll
+C:\git\CSharp.Basics\CSharp operators\bin\Debug\net5.0\CSharp operators.pdb
+C:\git\CSharp.Basics\CSharp operators\obj\Debug\net5.0\CSharp operators.dll
+C:\git\CSharp.Basics\CSharp operators\obj\Debug\net5.0\ref\CSharp operators.dll
+C:\git\CSharp.Basics\CSharp operators\obj\Debug\net5.0\CSharp operators.pdb
+C:\git\CSharp.Basics\CSharp operators\obj\Debug\net5.0\CSharp operators.genruntimeconfig.cache
