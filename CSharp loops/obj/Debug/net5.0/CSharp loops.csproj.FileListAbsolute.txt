@@ -1,0 +1,16 @@
+C:\git\CSharp.Basics\CSharp loops\bin\Debug\net5.0\CSharp loops.exe
+C:\git\CSharp.Basics\CSharp loops\bin\Debug\net5.0\CSharp loops.deps.json
+C:\git\CSharp.Basics\CSharp loops\bin\Debug\net5.0\CSharp loops.runtimeconfig.json
+C:\git\CSharp.Basics\CSharp loops\bin\Debug\net5.0\CSharp loops.runtimeconfig.dev.json
+C:\git\CSharp.Basics\CSharp loops\bin\Debug\net5.0\CSharp loops.dll
+C:\git\CSharp.Basics\CSharp loops\bin\Debug\net5.0\ref\CSharp loops.dll
+C:\git\CSharp.Basics\CSharp loops\bin\Debug\net5.0\CSharp loops.pdb
+C:\git\CSharp.Basics\CSharp loops\obj\Debug\net5.0\CSharp loops.csproj.AssemblyReference.cache
+C:\git\CSharp.Basics\CSharp loops\obj\Debug\net5.0\CSharp loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CSharp.Basics\CSharp loops\obj\Debug\net5.0\CSharp loops.AssemblyInfoInputs.cache
+C:\git\CSharp.Basics\CSharp loops\obj\Debug\net5.0\CSharp loops.AssemblyInfo.cs
+C:\git\CSharp.Basics\CSharp loops\obj\Debug\net5.0\CSharp loops.csproj.CoreCompileInputs.cache
+C:\git\CSharp.Basics\CSharp loops\obj\Debug\net5.0\CSharp loops.dll
+C:\git\CSharp.Basics\CSharp loops\obj\Debug\net5.0\ref\CSharp loops.dll
+C:\git\CSharp.Basics\CSharp loops\obj\Debug\net5.0\CSharp loops.pdb
+C:\git\CSharp.Basics\CSharp loops\obj\Debug\net5.0\CSharp loops.genruntimeconfig.cache
