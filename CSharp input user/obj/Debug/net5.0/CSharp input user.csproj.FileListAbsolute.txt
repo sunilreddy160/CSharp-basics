@@ -1,0 +1,16 @@
+C:\git\CSharp.Basics\CSharp input user\bin\Debug\net5.0\CSharp input user.exe
+C:\git\CSharp.Basics\CSharp input user\bin\Debug\net5.0\CSharp input user.deps.json
+C:\git\CSharp.Basics\CSharp input user\bin\Debug\net5.0\CSharp input user.runtimeconfig.json
+C:\git\CSharp.Basics\CSharp input user\bin\Debug\net5.0\CSharp input user.runtimeconfig.dev.json
+C:\git\CSharp.Basics\CSharp input user\bin\Debug\net5.0\CSharp input user.dll
+C:\git\CSharp.Basics\CSharp input user\bin\Debug\net5.0\ref\CSharp input user.dll
+C:\git\CSharp.Basics\CSharp input user\bin\Debug\net5.0\CSharp input user.pdb
+C:\git\CSharp.Basics\CSharp input user\obj\Debug\net5.0\CSharp input user.csproj.AssemblyReference.cache
+C:\git\CSharp.Basics\CSharp input user\obj\Debug\net5.0\CSharp input user.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CSharp.Basics\CSharp input user\obj\Debug\net5.0\CSharp input user.AssemblyInfoInputs.cache
+C:\git\CSharp.Basics\CSharp input user\obj\Debug\net5.0\CSharp input user.AssemblyInfo.cs
+C:\git\CSharp.Basics\CSharp input user\obj\Debug\net5.0\CSharp input user.csproj.CoreCompileInputs.cache
+C:\git\CSharp.Basics\CSharp input user\obj\Debug\net5.0\CSharp input user.dll
+C:\git\CSharp.Basics\CSharp input user\obj\Debug\net5.0\ref\CSharp input user.dll
+C:\git\CSharp.Basics\CSharp input user\obj\Debug\net5.0\CSharp input user.pdb
+C:\git\CSharp.Basics\CSharp input user\obj\Debug\net5.0\CSharp input user.genruntimeconfig.cache
